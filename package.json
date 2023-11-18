@@ -1,0 +1,23 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "Hello, I´m Marco Díaz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoDiaz2000/new-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoDiaz2000/new-portfolio/issues"
+  },
+  "homepage": "https://github.com/MarcoDiaz2000/new-portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  }
+}
